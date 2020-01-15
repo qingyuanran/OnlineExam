@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/src/com/neuq" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/neuq/dao/Impl/PaperInterfaceImplDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neuq/dao/Impl/XztInterfaceImplDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/neuq/web/servlet/CalculationScore.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neuq/web/servlet/InsertQuestion.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/neuq/web/servlet/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/neuq/web/servlet/Logout.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neuq/web/servlet/MistakeCollect.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/neuq/web/servlet/ShowPaper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/neuq/web/servlet/ShowStudentGrade.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/excelOut.jsp" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
